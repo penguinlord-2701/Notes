@@ -1,6 +1,6 @@
 import { Route , Routes } from 'react-router';
 
-import  Homepage  from "./pages/homepage";
+import  Homepage  from "./pages/Homepage";
 import  Navbar  from "./components/Navbar";
 import  RatelimitedUI  from "./components/RatelimitedUI";
 import  Createpage  from "./pages/createpage"
